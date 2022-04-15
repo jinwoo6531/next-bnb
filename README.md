@@ -9,3 +9,8 @@
 
 2일
 style-components부터 시작!
+
+명령어
+
+- yarn add styled-components babel-plugin-styled-components
+- yarn add @types/styled-components -D
