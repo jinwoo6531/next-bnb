@@ -39,6 +39,7 @@ const MordalPortal: React.FC<IProps> = ({ children, closePortal }) => {
     }
   }, []);
 
+  // typescript 개념 공부중
   if (ref.current && mounted) {
     return createPortal(
       <Container>
